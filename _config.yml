@@ -1,3 +1,6 @@
 title: 唐新锐的博客
 description: 我的学习记录
 theme: minima
+
+baseurl: "/vic1"
+url: "https://tangxiinrui1119.github.io"
